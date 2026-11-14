@@ -65,17 +65,6 @@ The cooperative relied on manual, paper-based ledgers where borrower payment his
 * **A model is only as sound as the data beneath it.** I prioritize raw record verification, leakage elimination, and distribution checks.
 * **Prescriptive Decision Support:** Data must go beyond backward-looking reporting to recommend optimal decisions under real-world operational constraints.
 * **I prioritize clear and transparent Communication.** If an executive, loan officer, or team member cannot understand why a recommendation was made, the analysis has failed.
-
-
-
-* **Prescriptive Decision Support:** Data must go beyond backward-looking reporting to prescribe optimal resource allocation under real-world constraints.
-* **Relentless Data Auditing:** A model is only as sound as the data beneath it. I prioritize raw data verification, leakage elimination, and distribution diagnostic checks before executing machine learning pipelines.
-* **Transparent Communication:** Bridge the gap between database architecture and executive stakeholders through honest, jargon-free data storytelling.
-
-* **Check the Foundation First:** Most data errors come from human typos, missing columns, or bad spreadsheet formulas. I fix the data integrity before I touch any machine learning model.
-* **Focus on Business Impact:** High accuracy means nothing if it doesn't solve a real operational problem.
-* **Simplification:** If an executive or loan officer can't understand why a recommendation was made, the analysis has failed.
-
 ---
 
 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ejteope) · [Email](mailto:ejhedteope@gmail.com)
